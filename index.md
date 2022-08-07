@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hi! I'm Mohammadsadegh Abolhasani, a first year Ph.D. student of Business Administration consnterating in Information Systems at The David Eccles School of Business at The University of Utah. 
