@@ -1,5 +1,7 @@
+<!---
 Hi! I'm Mohammadsadegh Abolhasani (you can call me Sadegh), a first year Ph.D. student of Business Administration (concentrating in [Information Systems](https://eccles.utah.edu/programs/phd-in-business-administration/academic-tracks/information-systems/)) at [The David Eccles School of Business](https://eccles.utah.edu/) at [The University of Utah](https://www.utah.edu/), Salt Lake City, Utah, USA. I work under the Supervision of Dr. Aggarwal. Prior to my doctoral studies, I received a Bachelor's degree in Industrial Engineering from [Sharif University of Technology](https://en.sharif.edu/), Tehran, Iran.
 
 My research is about using Machine Learning algorithms, tools, and methods such as NLP and Transform Learning in helping firms and organizations to automate their marketing procedures. During my undergraduate studies, I also worked on machine learning applications and this time on their performance regarding the prediction of quantitaive variables. 
 
 I am mostly interested in the vast field of Management Information Systems (MIS). I have worked on several aspects of MIS and have gained experience in either using them or developing tools for them to be applied to other fields such as Human Resources Information Systems (HRIS), Transportation and Supply Chain Management (SCM), and Marketing. Overall, my work (including methodologies and applications) spans the three areas of Information Systems (IS), Computer Science (CS), and Markting.
+-->
